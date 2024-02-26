@@ -1,0 +1,66 @@
+LANGUAGE,English
+MOD_DESCRIPTION,Optimized and adaptable illumination and tone adjustment.
+MOD_NAME,Lumina
+HOTKEY,"Set hotkey"
+CLOSE_TEXT,Close
+EXPOSURECONTROL_TEXT,Exposure Control
+LUMINOSITY_TEXT,Brightness
+GAMMA_TEXT,Gamma
+RADIANCE_TEXT,Contrast
+LIGHTING_TEXT,Lighting
+HUE_TEXT,Hue
+TINT_TEXT,Tint
+STYLES_MOD_NAME,Styles
+COLOR_CORRECTION_MOD_NAME,Color Correction
+VISUALISM_MOD_NAME,Visualism
+SUNTEMP_TEXT,Sun temperature
+SUNTINT_TEXT,Sun tint
+SKYTEMP_TEXT,Sky temp
+SKYTINT_TEXT,Sky tint
+MOONTEMP_TEXT,Moon temperature
+MOONTINT_TEXT,Moon tint
+MOONLIGHT_TEXT,Moon light
+TWILIGHTTINT_TEXT,Twilight tint
+ENABLE_SKYTONE_TEXT,Enable sky tonemapping
+DISABLE_SHADOWSMOOTH_TEXT,Disable shadow smoothing
+FORCELOWBIAS_TEXT,Enforce Minimal shadow offset
+RESET_TEXT,Reset All
+LOAD_TEXT,Load
+DELETE_TEXT,Delete
+WORKSHOP_TEXT,Workshop
+NOstyle_TEXT,Lumina style not found!
+RELOADstyle_TEXT,Reload style list
+OPENLOCALFOLDER_TEXT,Open local styles Folder
+LAUNCHLUT_TEXT,Launch LUT editor
+SHADOWINT_TEXT,Shadow intensity
+SHADOWBIAS_TEXT,Shadow bias multiplier
+CLASSICFOG_TEXT,Classic fog
+FOGINTENSITY_TEXT,Fog intensity
+LIGHTCOMP_TEXT,Disabled functions due to overlapping mods.
+MOD_CAUSE_TEXT,Render It/Daylight Classic/Relight were detected.
+SAVE_TEXT,Save
+STYLENAME_TEXT,Style Name
+VISUALISMCOMP_TEXT,Shadow and Fog Settings have been disabled.
+VISUALISM_CAUSE_TEXT,Render It/Daylight Classic/Fog Controller have been detected.
+EDGEFOG_TEXT,Edge Fog
+FOGSETTINGS_TEXT,Fog Adjustment
+FOGVISIBILITY_TEXT,Color Decay
+NIGHTFOG_TEXT,Disable classic fog at night 
+FOGINTENSITY_TEXT,Fog Intensity
+FOGVISIBILITY_TEXT,Fog Visibility
+EDGEDISTANCE_TEXT,Edge Distance
+HORIZONHEIGHT_TEXT,Horizon Height
+FOGHEIGHT_TEXT,Fog Height
+FOGDISTANCE_TEXT,Fog Distance
+CUBEMAP_TEXT,Cubemap
+CUBEMAP_TEXT_DISABLED,Cubemap settings disabled.
+CUBEMAP_TEXT_DISABLED_CAUSE,Cubemap Replacer has been detected.
+LUT_MOD_NAME,LUT Creator
+SAVE_LUT_TEXT,Save Lut
+LUT_SLIDER_TEXT,Opacity
+LUT_TEXT,Color Correction
+LUT_SLIDER_OPACITY_TEXT,Opacity
+LUT_SLIDER_HUE_TEXT,Hue
+ADVANCED,Advanced
+IGNORE,Ignore compatibility warning (Experimental)
+BLUEHAZE,Disable Inscattering Effects

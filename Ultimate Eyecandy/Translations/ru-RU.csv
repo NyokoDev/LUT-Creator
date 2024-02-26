@@ -1,0 +1,40 @@
+LANGUAGE,Русский
+MOD_DESCRIPTION,Оптимизированное освещение и настраиваемая коррекция тонов.
+MOD_NAME,Lumina
+HOTKEY,"Установить горячую клавишу"
+CLOSE_TEXT,Закрыть
+EXPOSURECONTROL_TEXT,Управление экспозицией
+LUMINOSITY_TEXT,Яркость
+GAMMA_TEXT,Гамма
+RADIANCE_TEXT,Контраст
+LIGHTING_TEXT,Освещение
+HUE_TEXT,Оттенок
+TINT_TEXT,Оттенок
+STYLES_MOD_NAME,Стили
+COLOR_CORRECTION_MOD_NAME,Цветовая коррекция
+VISUALISM_MOD_NAME,Визуализм
+SUNTEMP_TEXT,Температура солнца
+SUNTINT_TEXT,Оттенок солнца
+SKYTEMP_TEXT,Температура неба
+SKYTINT_TEXT,Оттенок неба
+MOONTEMP_TEXT,Температура луны
+MOONTINT_TEXT,Оттенок луны
+MOONLIGHT_TEXT,Лунный свет
+TWILIGHTTINT_TEXT,Оттенок сумерек
+ENABLE_SKYTONE_TEXT,Включить тонирование неба
+DISABLE_SHADOWSMOOTH_TEXT,Отключить сглаживание теней
+FORCELOWBIAS_TEXT,Принудительное минимальное смещение теней
+RESET_TEXT,Сбросить все
+LOAD_TEXT,Загрузить
+DELETE_TEXT,Удалить
+WORKSHOP_TEXT,Мастерская
+NOstyle_TEXT,Стиль Lumina не найден!
+RELOADstyle_TEXT,Перезагрузить список стилей
+OPENLOCALFOLDER_TEXT,Открыть локальную папку со стилями
+LAUNCHLUT_TEXT,Открыть редактор LUT
+SHADOWINT_TEXT,Интенсивность теней
+SHADOWBIAS_TEXT,Множитель смещения теней
+CLASSICFOG_TEXT,Классический туман
+FOGINTENSITY_TEXT,Интенсивность тумана
+LIGHTCOMP_TEXT,Функции отключены, так как обнаружены Render It!, Relight, Softer Shadows или Daylight Classic.
+SAVE_TEXT,Сохранить

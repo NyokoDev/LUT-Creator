@@ -1,0 +1,40 @@
+LANGUAGE,Português
+MOD_DESCRIPTION,Iluminação otimizada e ajuste adaptável de tonalidade.
+MOD_NAME,Lumina
+HOTKEY,"Definir tecla de atalho"
+CLOSE_TEXT,Fechar
+EXPOSURECONTROL_TEXT,Controle de exposição
+LUMINOSITY_TEXT,Luminosidade
+GAMMA_TEXT,Gama
+RADIANCE_TEXT,Contraste
+LIGHTING_TEXT,Iluminação
+HUE_TEXT,Tonalidade
+TINT_TEXT,Tonalidade
+STYLES_MOD_NAME,Estilos
+COLOR_CORRECTION_MOD_NAME,Correção de cor
+VISUALISM_MOD_NAME,Visualismo
+SUNTEMP_TEXT,Temperatura do sol
+SUNTINT_TEXT,Tonalidade do sol
+SKYTEMP_TEXT,Temperatura do céu
+SKYTINT_TEXT,Tonalidade do céu
+MOONTEMP_TEXT,Temperatura da lua
+MOONTINT_TEXT,Tonalidade da lua
+MOONLIGHT_TEXT,Luz da lua
+TWILIGHTTINT_TEXT,Tonalidade do crepúsculo
+ENABLE_SKYTONE_TEXT,Habilitar mapeamento de tom do céu
+DISABLE_SHADOWSMOOTH_TEXT,Desativar suavização de sombras
+FORCELOWBIAS_TEXT,Forçar deslocamento mínimo de sombras
+RESET_TEXT,Resetar tudo
+LOAD_TEXT,Carregar
+DELETE_TEXT,Excluir
+WORKSHOP_TEXT,Oficina
+NOstyle_TEXT,Estilo Lumina não encontrado!
+RELOADstyle_TEXT,Recarregar lista de estilos
+OPENLOCALFOLDER_TEXT,Abrir pasta local de estilos
+LAUNCHLUT_TEXT,Abrir editor LUT
+SHADOWINT_TEXT,Intensidade das sombras
+SHADOWBIAS_TEXT,Multiplicador de deslocamento das sombras
+CLASSICFOG_TEXT,Névoa clássica
+FOGINTENSITY_TEXT,Intensidade da névoa
+LIGHTCOMP_TEXT,As funções foram desativadas porque Render It!, Relight, Softer Shadows ou Daylight Classic foram detectados.
+SAVE_TEXT,Salvar
